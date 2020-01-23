@@ -1,0 +1,8747 @@
+
+==================
+
+Item: Deathbringer
+Wowhead link: https://classic.wowhead.com/item=17068
+
+Total Raids 40
+No. of Drops : 1
+Drop Rate : 2.5%
+	1.
+	==================
+	Player: Thokana
+
+	Dropped from: Onyxia
+	Date: Wed Dec 04 23:38:55 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Vis'kag the Bloodletter
+Wowhead link: https://classic.wowhead.com/item=17075
+
+Total Raids 40
+No. of Drops : 1
+Drop Rate : 2.5%
+	1.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Onyxia
+	Date: Thu Oct 24 00:23:03 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Earthfury Legguards
+Wowhead link: https://classic.wowhead.com/item=16843
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Xebec
+
+	Dropped from: Magmadar
+	Date: Wed Oct 30 21:30:30 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Felheart Pants
+Wowhead link: https://classic.wowhead.com/item=16810
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Ribb
+
+	Dropped from: Magmadar
+	Date: Wed Nov 20 21:27:37 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Giantstalker's Bracers
+Wowhead link: https://classic.wowhead.com/item=16850
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Fidi
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 02 23:32:39 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Maiden's Circle
+Wowhead link: https://classic.wowhead.com/item=13001
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Klex
+
+	Dropped from: Gehennas
+	Date: Thu Jan 02 21:35:25 EET 2020
+	Payed DKP: -2
+
+
+==================
+
+Item: Manastorm Leggings
+Wowhead link: https://classic.wowhead.com/item=18872
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Twatblaster
+
+	Dropped from: Lucifron
+	Date: Sun Nov 24 20:25:45 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Onslaught Girdle
+Wowhead link: https://classic.wowhead.com/item=19137
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Cyborgg
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 01 22:22:02 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Perdition's Blade
+Wowhead link: https://classic.wowhead.com/item=18816
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Tweez
+
+	Dropped from: Ragnaros
+	Date: Sun Nov 24 22:59:39 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Shard of the Flame
+Wowhead link: https://classic.wowhead.com/item=17082
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+	1.
+	==================
+	Player: Ribb
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 08 22:42:41 EET 2020
+	Payed DKP: 0
+
+
+==================
+
+Item: Arcanist Belt
+Wowhead link: https://classic.wowhead.com/item=16802
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 06 22:26:06 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Cylox
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 23 22:26:39 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Bindings of the Windseeker
+Wowhead link: https://classic.wowhead.com/item=18564
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Garr
+	Date: Sun Dec 29 22:23:32 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Obershaw
+
+	Dropped from: Garr
+	Date: Mon Dec 23 01:01:39 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Bonereaver's Edge
+Wowhead link: https://classic.wowhead.com/item=17076
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Dovo
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 16 23:14:49 EEST 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Ogral
+
+	Dropped from: Ragnaros
+	Date: Mon Dec 30 23:32:29 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Cenarion Bracers
+Wowhead link: https://classic.wowhead.com/item=16830
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Missmoo
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 11 21:56:56 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Bantfat
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 09 22:40:21 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Cenarion Helm
+Wowhead link: https://classic.wowhead.com/item=16834
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Oliho
+
+	Dropped from: Garr
+	Date: Sun Nov 24 21:08:02 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 23 22:14:29 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Deep Earth Spaulders
+Wowhead link: https://classic.wowhead.com/item=18829
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 22:49:24 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Apolloze
+
+	Dropped from: Magmadar
+	Date: Sun Dec 08 20:26:22 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthshaker
+Wowhead link: https://classic.wowhead.com/item=17073
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Magmadar
+	Date: Wed Oct 23 21:32:36 EEST 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Dovo
+
+	Dropped from: Magmadar
+	Date: Wed Oct 02 21:16:37 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Finkle's Lava Dredger
+Wowhead link: https://classic.wowhead.com/item=18803
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 12 22:31:40 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Oliho
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 22 23:19:54 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Helm of the Lifegiver
+Wowhead link: https://classic.wowhead.com/item=18870
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 27 22:14:34 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Hakimi
+
+	Dropped from: Sulfuron Harbinger
+	Date: Mon Dec 30 22:58:27 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Legplates of Might
+Wowhead link: https://classic.wowhead.com/item=16867
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Thorge
+
+	Dropped from: Magmadar
+	Date: Sun Jan 05 21:24:27 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Ogral
+
+	Dropped from: Gehennas
+	Date: Sun Dec 15 21:39:57 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Sabatons of the Flamewalker
+Wowhead link: https://classic.wowhead.com/item=19144
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Apolloze
+
+	Dropped from: Magmadar
+	Date: Sun Nov 24 20:36:29 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Xebec
+
+	Dropped from: Magmadar
+	Date: Wed Oct 16 21:03:23 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Stormrage Cover
+Wowhead link: https://classic.wowhead.com/item=16900
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+	1.
+	==================
+	Player: Oliho
+
+	Dropped from: Onyxia
+	Date: Sun Nov 24 23:26:52 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:39:10 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nemesis Skullcap
+Wowhead link: https://classic.wowhead.com/item=16929
+
+Total Raids 40
+No. of Drops : 3
+Drop Rate : 7.5%
+	1.
+	==================
+	Player: Momsemor
+
+	Dropped from: Onyxia
+	Date: Wed Jan 15 23:14:14 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Ribb
+
+	Dropped from: Onyxia
+	Date: Wed Dec 11 23:08:51 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Levíathan
+
+	Dropped from: Onyxia
+	Date: Sun Dec 01 22:42:02 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Ring of Binding
+Wowhead link: https://classic.wowhead.com/item=18813
+
+Total Raids 40
+No. of Drops : 3
+Drop Rate : 7.5%
+	1.
+	==================
+	Player: Thorge
+
+	Dropped from: Onyxia
+	Date: Sun Dec 01 22:43:13 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Onyxia
+	Date: Thu Oct 24 00:14:40 EEST 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Missmoo
+
+	Dropped from: Onyxia
+	Date: Wed Dec 04 23:36:48 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Ancient Petrified Leaf
+Wowhead link: https://classic.wowhead.com/item=18703
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Majordomo Executus
+	Date: Mon Dec 30 23:07:22 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Nakogæd
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 15 22:49:56 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Themuff
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 12 22:28:46 EET 2020
+	Payed DKP: 0
+
+
+==================
+
+Item: Bracers of Might
+Wowhead link: https://classic.wowhead.com/item=16861
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Rainny
+
+	Dropped from: Garr
+	Date: Wed Nov 20 22:04:28 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Razergore
+
+	Dropped from: Onyxia
+	Date: Thu Oct 03 21:53:51 EEST 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Finiir
+
+	Dropped from: Garr
+	Date: Wed Dec 11 21:48:35 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Cenarion Belt
+Wowhead link: https://classic.wowhead.com/item=16828
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Denharigen
+
+	Dropped from: Gehennas
+	Date: Wed Jan 22 21:34:23 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 23 22:44:18 EEST 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Missmoo
+
+	Dropped from: Magmadar
+	Date: Wed Dec 04 21:30:53 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Cenarion Boots
+Wowhead link: https://classic.wowhead.com/item=16829
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Rur
+
+	Dropped from: Lucifron
+	Date: Wed Oct 30 21:26:16 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Outdoordave
+
+	Dropped from: Lucifron
+	Date: Wed Jan 08 21:11:41 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Buesaks
+
+	Dropped from: Lucifron
+	Date: Wed Oct 09 20:55:52 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Cenarion Leggings
+Wowhead link: https://classic.wowhead.com/item=16835
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Denharigen
+
+	Dropped from: Magmadar
+	Date: Wed Jan 15 21:27:57 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Magmadar
+	Date: Wed Oct 23 21:29:20 EEST 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Bantfat
+
+	Dropped from: Magmadar
+	Date: Wed Nov 06 21:26:44 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Crimson Shocker
+Wowhead link: https://classic.wowhead.com/item=17077
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Klex
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 13 22:27:23 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Ohliv
+
+	Dropped from: Gehennas
+	Date: Sun Dec 15 21:45:07 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Tinull
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 20 22:41:54 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Crown of Destruction
+Wowhead link: https://classic.wowhead.com/item=18817
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 22 23:12:11 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 01 21:17:07 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Dovo
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 06 23:06:40 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Belt
+Wowhead link: https://classic.wowhead.com/item=16838
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 22 22:29:36 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Gehennas
+	Date: Sun Jan 05 21:35:28 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Oxy
+
+	Dropped from: Garr
+	Date: Wed Nov 13 22:04:15 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Felheart Shoulder Pads
+Wowhead link: https://classic.wowhead.com/item=16807
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Demonstealer
+
+	Dropped from: Baron Geddon
+	Date: Sun Nov 24 21:24:11 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Ohliv
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 15 22:07:44 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Rickshaw
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 18 22:03:34 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Gauntlets of Might
+Wowhead link: https://classic.wowhead.com/item=16863
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Lucifron
+	Date: Sun Dec 08 20:17:50 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Obershaw
+
+	Dropped from: Lucifron
+	Date: Wed Nov 06 21:23:37 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rainny
+
+	Dropped from: Lucifron
+	Date: Mon Dec 30 21:27:27 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Leggings of Transcendence
+Wowhead link: https://classic.wowhead.com/item=16922
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 11 22:56:12 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Akti
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:14:40 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Slapheed
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 13 23:16:23 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nightslayer Cover
+Wowhead link: https://classic.wowhead.com/item=16821
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Garr
+	Date: Wed Oct 16 21:29:23 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Garr
+	Date: Wed Nov 13 21:53:05 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Garr
+	Date: Wed Nov 06 21:54:30 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Pants of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16814
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Tuuj
+
+	Dropped from: Magmadar
+	Date: Wed Nov 06 21:31:02 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Doctrine
+
+	Dropped from: Magmadar
+	Date: Sun Dec 22 21:25:44 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Blacknoir
+
+	Dropped from: Magmadar
+	Date: Wed Oct 02 21:13:50 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Sash of Whispered Secrets
+Wowhead link: https://classic.wowhead.com/item=18809
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 15 22:42:50 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Klex
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 30 23:00:44 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Smotla
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 16 22:37:45 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Sorcerous Dagger
+Wowhead link: https://classic.wowhead.com/item=18878
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Skrig
+
+	Dropped from: Gehennas
+	Date: Mon Dec 30 21:49:55 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Apolloze
+
+	Dropped from: Gehennas
+	Date: Sun Dec 15 21:46:46 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Zuzaroo
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 08 21:15:40 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Staff of Dominance
+Wowhead link: https://classic.wowhead.com/item=18842
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+	1.
+	==================
+	Player: Toxicburn
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 19 22:59:55 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Momsemor
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 15 22:53:40 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Rur
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Jan 02 22:31:53 EET 2020
+	Payed DKP: 0
+
+
+==================
+
+Item: Eskhandar's Collar
+Wowhead link: https://classic.wowhead.com/item=18205
+
+Total Raids 40
+No. of Drops : 4
+Drop Rate : 10.0%
+	1.
+	==================
+	Player: Oliho
+
+	Dropped from: Onyxia
+	Date: Wed Jan 15 19:00:43 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Merzky
+
+	Dropped from: Onyxia
+	Date: Wed Nov 20 23:45:06 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Rur
+
+	Dropped from: Onyxia
+	Date: Thu Nov 28 00:06:55 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Razergore
+
+	Dropped from: Onyxia
+	Date: Wed Nov 06 23:27:27 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Helmet of Ten Storms
+Wowhead link: https://classic.wowhead.com/item=16947
+
+Total Raids 40
+No. of Drops : 4
+Drop Rate : 10.0%
+	1.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:47:14 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Oxy
+
+	Dropped from: Onyxia
+	Date: Thu Nov 14 00:03:43 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Onyxia
+	Date: Thu Oct 03 21:00:30 EEST 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Xebec
+
+	Dropped from: Onyxia
+	Date: Wed Nov 06 23:26:14 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Aged Core Leather Gloves
+Wowhead link: https://classic.wowhead.com/item=18823
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Obershaw
+
+	Dropped from: Baron Geddon
+	Date: Thu Jan 02 21:58:36 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Magmadar
+	Date: Sun Dec 22 21:34:28 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Sonofdarknes
+
+	Dropped from: Magmadar
+	Date: Sun Dec 01 20:24:58 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Jona
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 13 22:50:54 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Arcanist Leggings
+Wowhead link: https://classic.wowhead.com/item=16796
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Dapperdave
+
+	Dropped from: Magmadar
+	Date: Sun Dec 08 20:22:57 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Portalbeast
+
+	Dropped from: Magmadar
+	Date: Thu Jan 02 21:19:50 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Cylox
+
+	Dropped from: Magmadar
+	Date: Sun Nov 24 20:33:53 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Picklenex
+
+	Dropped from: Magmadar
+	Date: Wed Oct 09 21:03:02 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Arcanist Robes
+Wowhead link: https://classic.wowhead.com/item=16798
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Toxicburn
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 29 23:22:22 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Shlogy
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 04 22:51:55 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Icen
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 22 22:47:14 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Ponchy
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 27 22:45:52 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Bloodfang Pants
+Wowhead link: https://classic.wowhead.com/item=16909
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 22 22:35:25 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Ragnaros
+	Date: Sun Nov 24 22:54:10 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Tweez
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 22 23:10:54 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Bloodstyler
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 27 23:12:40 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Cenarion Vestments
+Wowhead link: https://classic.wowhead.com/item=16833
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Denharigen
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Jan 15 22:22:14 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 30 22:48:33 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Missmoo
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 04 22:48:23 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Bantfat
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 13 22:48:34 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Circlet of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16813
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Klex
+
+	Dropped from: Baron Geddon
+	Date: Thu Jan 02 22:01:49 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Cryptie
+
+	Dropped from: Garr
+	Date: Sun Dec 01 20:47:01 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Doctrine
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:18:31 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Tinull
+
+	Dropped from: Garr
+	Date: Wed Dec 18 22:07:01 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Dragonstalker's Helm
+Wowhead link: https://classic.wowhead.com/item=16939
+
+Total Raids 40
+No. of Drops : 5
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 23:51:02 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Hulklol
+
+	Dropped from: Onyxia
+	Date: Wed Dec 11 23:10:00 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Fidi
+
+	Dropped from: Onyxia
+	Date: Thu Oct 03 20:59:45 EEST 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Abrax
+
+	Dropped from: Onyxia
+	Date: Sun Nov 24 23:26:28 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Murlocjoe
+
+	Dropped from: Onyxia
+	Date: Wed Dec 18 23:32:39 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Helmet
+Wowhead link: https://classic.wowhead.com/item=16842
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Garr
+	Date: Wed Oct 16 21:30:03 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Garr
+	Date: Sun Dec 15 21:54:15 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Oxy
+
+	Dropped from: Garr
+	Date: Sun Jan 19 22:04:15 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Garr
+	Date: Wed Dec 11 21:43:32 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Essence of the Pure Flame
+Wowhead link: https://classic.wowhead.com/item=18815
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Onyxia
+	Date: Sun Jan 12 23:09:33 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thorge
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 08 22:04:30 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Rainny
+
+	Dropped from: Ragnaros
+	Date: Mon Dec 30 23:30:58 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Denkwaden
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 01 22:23:58 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Felheart Belt
+Wowhead link: https://classic.wowhead.com/item=16806
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Ribb
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Dec 18 22:38:18 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 04 22:55:43 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Riji
+
+	Dropped from: Magmadar
+	Date: Wed Oct 09 21:13:52 EEST 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Hellbane
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Sep 29 21:36:14 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Felheart Slippers
+Wowhead link: https://classic.wowhead.com/item=16803
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Trumpfive
+
+	Dropped from: Shazzrah
+	Date: Wed Dec 11 22:03:49 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Ribb
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 04 22:48:57 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rickshaw
+
+	Dropped from: Shazzrah
+	Date: Wed Dec 18 22:12:50 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 06 22:14:50 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Fireguard Shoulders
+Wowhead link: https://classic.wowhead.com/item=19139
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Denharigen
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 15 22:43:45 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 20 23:04:50 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Razergore
+
+	Dropped from: Majordomo Executus
+	Date: Thu Jan 02 22:45:21 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Missmoo
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 18 22:59:16 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Fireproof Cloak
+Wowhead link: https://classic.wowhead.com/item=18811
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Obershaw
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 08 22:38:36 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 30 22:58:21 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Rainny
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 04 23:05:12 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Razergore
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 16 22:42:44 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Giantstalker's Breastplate
+Wowhead link: https://classic.wowhead.com/item=16845
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Jan 22 22:20:44 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Kylänkovin
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 05 22:39:09 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Hulklol
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Jan 02 22:32:58 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Fidi
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 18 22:44:48 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Giantstalker's Helmet
+Wowhead link: https://classic.wowhead.com/item=16846
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Hulklol
+
+	Dropped from: Garr
+	Date: Wed Dec 18 21:48:39 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Fidi
+
+	Dropped from: Garr
+	Date: Thu Jan 02 21:53:13 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Murlocjoe
+
+	Dropped from: Garr
+	Date: Sun Dec 01 20:46:17 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hantatoyobu
+
+	Dropped from: Garr
+	Date: Wed Oct 02 22:34:29 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Gutgore Ripper
+Wowhead link: https://classic.wowhead.com/item=17071
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: ßachstab
+
+	Dropped from: Garr
+	Date: Wed Nov 20 22:00:09 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Garr
+	Date: Wed Oct 30 22:03:49 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Sonofdarknes
+
+	Dropped from: Garr
+	Date: Sun Dec 15 21:59:22 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Jona
+
+	Dropped from: Garr
+	Date: Wed Nov 27 21:51:33 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Heavy Dark Iron Ring
+Wowhead link: https://classic.wowhead.com/item=18879
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Thromgar
+
+	Dropped from: Magmadar
+	Date: Thu Jan 02 21:18:48 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Obershaw
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 08 22:25:04 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rainny
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Dec 04 22:41:43 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Bradwarden
+
+	Dropped from: Sulfuron Harbinger
+	Date: Thu Sep 26 23:01:30 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Mana Igniting Cord
+Wowhead link: https://classic.wowhead.com/item=19136
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Magmadar
+	Date: Wed Dec 18 21:22:29 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Kalypso
+
+	Dropped from: Magmadar
+	Date: Sun Jan 12 21:21:08 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Garr
+	Date: Wed Oct 16 21:31:38 EEST 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Shlogy
+
+	Dropped from: Magmadar
+	Date: Wed Nov 13 21:27:49 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Medallion of Steadfast Might
+Wowhead link: https://classic.wowhead.com/item=17065
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Magmadar
+	Date: Wed Nov 27 21:28:31 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Magmadar
+	Date: Wed Jan 01 21:42:16 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Obershaw
+
+	Dropped from: Magmadar
+	Date: Wed Nov 13 21:32:07 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Sporc
+
+	Dropped from: Magmadar
+	Date: Wed Dec 11 21:28:03 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Stormrage Legguards
+Wowhead link: https://classic.wowhead.com/item=16901
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Rur
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 11 22:54:42 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Outdoordave
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 08 22:34:08 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Missmoo
+
+	Dropped from: Ragnaros
+	Date: Thu Jan 02 22:55:44 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Rumleskaft
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 01 22:21:09 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Wild Growth Spaulders
+Wowhead link: https://classic.wowhead.com/item=18810
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 29 23:39:57 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Oliho
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 19 23:07:11 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 27 22:57:28 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 18 22:56:57 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Bloodfang Hood
+Wowhead link: https://classic.wowhead.com/item=16908
+
+Total Raids 40
+No. of Drops : 6
+Drop Rate : 15.0%
+	1.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Onyxia
+	Date: Wed Dec 04 23:36:03 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Revan
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:45:08 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: ßachstab
+
+	Dropped from: Onyxia
+	Date: Wed Nov 20 23:41:38 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 00:37:18 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Sonofdarknes
+
+	Dropped from: Onyxia
+	Date: Sun Dec 22 23:37:13 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Jona
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:37:40 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Helm of Wrath
+Wowhead link: https://classic.wowhead.com/item=16963
+
+Total Raids 40
+No. of Drops : 6
+Drop Rate : 15.0%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Onyxia
+	Date: Wed Nov 20 23:42:52 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 23:51:50 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 00:36:45 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Obershaw
+
+	Dropped from: Onyxia
+	Date: Thu Nov 28 00:05:30 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Dovo
+
+	Dropped from: Onyxia
+	Date: Thu Nov 28 00:05:50 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Razergore
+
+	Dropped from: Onyxia
+	Date: Wed Oct 16 23:29:56 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Sapphiron Drape
+Wowhead link: https://classic.wowhead.com/item=17078
+
+Total Raids 40
+No. of Drops : 6
+Drop Rate : 15.0%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Onyxia
+	Date: Wed Jan 22 22:56:31 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Klex
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 23:50:05 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Icen
+
+	Dropped from: Onyxia
+	Date: Sun Nov 24 23:26:02 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Bantfat
+
+	Dropped from: Onyxia
+	Date: Wed Dec 11 23:09:35 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Smotla
+
+	Dropped from: Onyxia
+	Date: Wed Oct 16 23:31:27 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Kaleh
+
+	Dropped from: Onyxia
+	Date: Wed Oct 09 23:57:02 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Arcanist Boots
+Wowhead link: https://classic.wowhead.com/item=16800
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Mcfresh
+
+	Dropped from: Lucifron
+	Date: Sun Jan 05 21:20:13 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Lucifron
+	Date: Wed Oct 23 21:21:44 EEST 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Taikurivittu
+
+	Dropped from: Magmadar
+	Date: Wed Jan 15 21:24:40 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Shabanz
+
+	Dropped from: Lucifron
+	Date: Sun Dec 01 20:17:41 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Kubi
+
+	Dropped from: Magmadar
+	Date: Wed Nov 27 21:24:35 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Azuresong Mageblade
+Wowhead link: https://classic.wowhead.com/item=17103
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 06 22:50:27 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Demonstealer
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 22 22:58:47 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Kalypso
+
+	Dropped from: Majordomo Executus
+	Date: Sun Nov 24 22:13:40 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Shabanz
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 18 22:50:09 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 23 22:53:03 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Belt of Might
+Wowhead link: https://classic.wowhead.com/item=16864
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Gehennas
+	Date: Wed Nov 06 21:45:18 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Garr
+	Date: Thu Jan 02 21:48:19 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Volzagia
+
+	Dropped from: Gehennas
+	Date: Wed Oct 16 21:15:39 EEST 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Obershaw
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 02 23:54:21 EEST 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Dovo
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 09 21:58:26 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Boots of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16811
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Doktoras
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Jan 05 22:29:48 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Sacred
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 29 22:42:46 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Akti
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 02 23:09:59 EEST 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Tinull
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 30 22:20:37 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Slapheed
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 15 22:19:50 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Cenarion Gloves
+Wowhead link: https://classic.wowhead.com/item=16831
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Denharigen
+
+	Dropped from: Shazzrah
+	Date: Wed Jan 15 22:02:32 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 23 22:22:54 EEST 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Missmoo
+
+	Dropped from: Shazzrah
+	Date: Wed Dec 18 22:15:28 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Bantfat
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 02 23:10:49 EEST 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Bichimacow
+
+	Dropped from: Shazzrah
+	Date: Thu Sep 26 21:53:16 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Cenarion Spaulders
+Wowhead link: https://classic.wowhead.com/item=16836
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Denharigen
+
+	Dropped from: Baron Geddon
+	Date: Wed Jan 15 21:55:27 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Oliho
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 01 21:11:49 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rur
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 13 22:08:14 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Outdoordave
+
+	Dropped from: Baron Geddon
+	Date: Wed Jan 08 21:48:10 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Bantfat
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 20 22:12:53 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Cloak of the Shrouded Mists
+Wowhead link: https://classic.wowhead.com/item=17102
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 22 23:10:28 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 18 23:08:55 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Volzagia
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 20 23:17:56 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 05 23:05:49 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Dovo
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 08 22:41:23 EET 2020
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Boots
+Wowhead link: https://classic.wowhead.com/item=16837
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Gehennas
+	Date: Sun Dec 15 21:42:19 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Lucifron
+	Date: Sun Jan 12 21:17:22 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Lucifron
+	Date: Wed Nov 20 21:16:25 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Lucifron
+	Date: Wed Dec 18 21:17:20 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Xebec
+
+	Dropped from: Lucifron
+	Date: Wed Nov 06 21:21:58 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Gauntlets
+Wowhead link: https://classic.wowhead.com/item=16839
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Gehennas
+	Date: Sun Dec 08 20:35:58 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Gehennas
+	Date: Sun Dec 01 20:33:15 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Gehennas
+	Date: Wed Oct 30 21:42:25 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Gehennas
+	Date: Wed Nov 13 21:39:09 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Xebec
+
+	Dropped from: Gehennas
+	Date: Wed Nov 27 21:36:38 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Felheart Horns
+Wowhead link: https://classic.wowhead.com/item=16808
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Demonstealer
+
+	Dropped from: Garr
+	Date: Sun Nov 24 21:07:36 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Dovox
+
+	Dropped from: Garr
+	Date: Sun Jan 12 21:49:10 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Onedirection
+
+	Dropped from: Garr
+	Date: Sun Jan 05 21:54:07 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Sgtcheese
+
+	Dropped from: Ragnaros
+	Date: Thu Oct 24 00:05:57 EEST 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Plaguehead
+
+	Dropped from: Garr
+	Date: Wed Oct 09 21:34:42 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Flamewaker Legplates
+Wowhead link: https://classic.wowhead.com/item=18861
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Gehennas
+	Date: Wed Oct 23 21:41:48 EEST 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Gehennas
+	Date: Wed Dec 04 21:40:01 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Volzagia
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 13 22:41:23 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Dovo
+
+	Dropped from: Gehennas
+	Date: Wed Oct 16 21:19:23 EEST 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Thokana
+
+	Dropped from: Shazzrah
+	Date: Wed Jan 15 22:04:37 EET 2020
+	Payed DKP: 0
+
+
+==================
+
+Item: Giantstalker's Boots
+Wowhead link: https://classic.wowhead.com/item=16849
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Mavvy
+
+	Dropped from: Garr
+	Date: Wed Jan 22 21:45:31 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Kylänkovin
+
+	Dropped from: Gehennas
+	Date: Sun Dec 08 20:33:43 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Hulklol
+
+	Dropped from: Gehennas
+	Date: Wed Dec 18 21:34:00 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Fidi
+
+	Dropped from: Gehennas
+	Date: Wed Oct 09 21:18:34 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Abrax
+
+	Dropped from: Gehennas
+	Date: Sun Dec 22 21:39:18 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nemesis Leggings
+Wowhead link: https://classic.wowhead.com/item=16930
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Dovox
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 12 22:38:17 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Momsemor
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 15 22:51:42 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Onedirection
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 05 22:57:51 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Rickshaw
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 20 23:19:41 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 06 23:05:26 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Netherwind Pants
+Wowhead link: https://classic.wowhead.com/item=16915
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 16 23:16:22 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Mcfresh
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:14:14 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Zenue
+
+	Dropped from: Ragnaros
+	Date: Sun Nov 24 22:52:07 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 27 23:14:05 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Shlogy
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 13 23:16:54 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nightslayer Chestpiece
+Wowhead link: https://classic.wowhead.com/item=16820
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 15 22:44:10 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Golemagg the Incinerator
+	Date: Mon Dec 30 23:00:04 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: ßachstab
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 20 22:52:05 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Bloodstyler
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 22:50:44 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 16 22:29:43 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Robe of Volatile Power
+Wowhead link: https://classic.wowhead.com/item=19145
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Momsemor
+
+	Dropped from: Gehennas
+	Date: Sun Nov 24 20:47:57 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Onedirection
+
+	Dropped from: Gehennas
+	Date: Sun Jan 05 21:41:00 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Levíathan
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:22:11 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Rickshaw
+
+	Dropped from: Lucifron
+	Date: Wed Dec 18 21:18:00 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 09 22:08:54 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Sabatons of Might
+Wowhead link: https://classic.wowhead.com/item=16862
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Thromgar
+
+	Dropped from: Gehennas
+	Date: Thu Jan 02 21:33:37 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Gehennas
+	Date: Sun Jan 12 21:34:27 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Thorge
+
+	Dropped from: Gehennas
+	Date: Sun Jan 19 21:45:48 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Obershaw
+
+	Dropped from: Gehennas
+	Date: Wed Jan 15 21:33:56 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Dovo
+
+	Dropped from: Gehennas
+	Date: Wed Nov 06 21:38:38 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Salamander Scale Pants
+Wowhead link: https://classic.wowhead.com/item=18875
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 16 22:01:23 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Shazzrah
+	Date: Sun Jan 12 22:03:53 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Oliho
+
+	Dropped from: Gehennas
+	Date: Sun Dec 01 20:35:13 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Oxy
+
+	Dropped from: Gehennas
+	Date: Wed Nov 13 21:41:02 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Missmoo
+
+	Dropped from: Gehennas
+	Date: Wed Dec 11 21:33:15 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Talisman of Ephemeral Power
+Wowhead link: https://classic.wowhead.com/item=18820
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 11 22:28:45 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Cuden
+
+	Dropped from: Baron Geddon
+	Date: Mon Dec 30 22:25:25 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Demonstealer
+
+	Dropped from: Garr
+	Date: Sun Dec 15 22:01:02 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Momsemor
+
+	Dropped from: Garr
+	Date: Sun Dec 15 22:01:16 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Shlogy
+
+	Dropped from: Garr
+	Date: Wed Dec 18 21:52:27 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Wristguards of Stability
+Wowhead link: https://classic.wowhead.com/item=19146
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Gehennas
+	Date: Wed Oct 30 21:45:25 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Blodtørst
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 15 22:32:04 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Dovo
+
+	Dropped from: Gehennas
+	Date: Wed Oct 02 21:39:50 EEST 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Thokana
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 22 22:33:55 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Sporc
+
+	Dropped from: Lucifron
+	Date: Sun Dec 01 20:16:53 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Halo of Transcendence
+Wowhead link: https://classic.wowhead.com/item=16921
+
+Total Raids 40
+No. of Drops : 7
+Drop Rate : 17.5%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Onyxia
+	Date: Wed Oct 16 23:30:42 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Dnt
+
+	Dropped from: Onyxia
+	Date: Sun Dec 15 23:29:32 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Flux
+
+	Dropped from: Onyxia
+	Date: Sun Jan 12 23:03:28 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Divnage
+
+	Dropped from: Onyxia
+	Date: Sun Dec 15 23:28:34 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Doktoras
+
+	Dropped from: Onyxia
+	Date: Sun Jan 05 23:22:38 EET 2020
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Slapheed
+
+	Dropped from: Onyxia
+	Date: Thu Oct 10 00:00:08 EEST 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Treldar
+
+	Dropped from: Onyxia
+	Date: Wed Nov 06 23:26:49 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Arcanist Crown
+Wowhead link: https://classic.wowhead.com/item=16795
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Skrig
+
+	Dropped from: Garr
+	Date: Mon Dec 30 22:02:43 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Zenue
+
+	Dropped from: Garr
+	Date: Sun Jan 19 22:04:35 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Garr
+	Date: Wed Jan 08 21:44:21 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Taikurivittu
+
+	Dropped from: Garr
+	Date: Wed Jan 15 21:44:13 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Ponchy
+
+	Dropped from: Garr
+	Date: Wed Dec 04 21:57:22 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Graspinb
+
+	Dropped from: Garr
+	Date: Wed Oct 02 22:35:11 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Band of Sulfuras
+Wowhead link: https://classic.wowhead.com/item=19138
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Skrig
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:31:23 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Rur
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 15 23:02:15 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Divnage
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 05 22:59:38 EET 2020
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Klex
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 08 22:36:22 EET 2020
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Apolloze
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 15 23:05:10 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Cylox
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:15:59 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Cauterizing Band
+Wowhead link: https://classic.wowhead.com/item=19140
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 22 22:26:23 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Dnt
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 15 22:51:04 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Divnage
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 08 21:48:44 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Doktoras
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 13 22:57:10 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Pricis
+
+	Dropped from: Majordomo Executus
+	Date: Sun Nov 24 22:14:57 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Onezero
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 01 22:01:20 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Core Hound Tooth
+Wowhead link: https://classic.wowhead.com/item=18805
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Ragnaros
+	Date: Mon Dec 30 23:28:43 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Obershaw
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 15 23:15:49 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Rainny
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 05 23:14:21 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: ßachstab
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 23:11:44 EEST 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 23 23:12:21 EEST 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Jona
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Sep 29 22:46:11 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Drillborer Disk
+Wowhead link: https://classic.wowhead.com/item=17066
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Garr
+	Date: Wed Nov 20 21:58:00 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Garr
+	Date: Mon Dec 30 22:09:07 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Baron Geddon
+	Date: Wed Jan 22 21:56:32 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Rainny
+
+	Dropped from: Garr
+	Date: Wed Nov 13 22:01:09 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Finiir
+
+	Dropped from: Garr
+	Date: Wed Nov 06 21:56:48 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Denkwaden
+
+	Dropped from: Garr
+	Date: Sun Dec 08 20:49:38 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Eskhandar's Right Claw
+Wowhead link: https://classic.wowhead.com/item=18203
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Baron Geddon
+	Date: Wed Jan 08 21:54:44 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Serbatoio
+
+	Dropped from: Garr
+	Date: Wed Jan 22 21:50:03 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Thorge
+
+	Dropped from: Magmadar
+	Date: Sun Jan 05 21:31:59 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Obershaw
+
+	Dropped from: Gehennas
+	Date: Wed Dec 04 21:40:47 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Thokana
+
+	Dropped from: Magmadar
+	Date: Thu Jan 02 21:24:16 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Finiir
+
+	Dropped from: Magmadar
+	Date: Wed Oct 30 21:31:49 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Felheart Bracers
+Wowhead link: https://classic.wowhead.com/item=16804
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Dovox
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 12 21:54:07 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Momsemor
+
+	Dropped from: Shazzrah
+	Date: Wed Dec 18 22:10:59 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Ohliv
+
+	Dropped from: Magmadar
+	Date: Sun Dec 15 21:26:52 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Magmadar
+	Date: Wed Nov 20 21:35:40 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Sgtcheese
+
+	Dropped from: Lucifron
+	Date: Wed Oct 02 21:06:51 EEST 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Plaguehead
+
+	Dropped from: Molten Giant
+	Date: Wed Oct 16 20:41:22 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Felheart Gloves
+Wowhead link: https://classic.wowhead.com/item=16805
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Trumpfive
+
+	Dropped from: Gehennas
+	Date: Wed Jan 22 21:32:16 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Ribb
+
+	Dropped from: Magmadar
+	Date: Wed Nov 27 21:23:40 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Ohliv
+
+	Dropped from: Lucifron
+	Date: Sun Dec 29 21:31:11 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Rickshaw
+
+	Dropped from: Lucifron
+	Date: Wed Nov 20 21:17:09 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Lucifron
+	Date: Wed Oct 16 20:57:49 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Plaguehead
+
+	Dropped from: Lucifron
+	Date: Wed Oct 02 21:05:51 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Giantstalker's Epaulets
+Wowhead link: https://classic.wowhead.com/item=16848
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Jan 08 22:14:56 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Rollsonplate
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Jan 19 22:37:02 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Nakogæd
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Jan 05 22:34:20 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hulklol
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 09 22:38:46 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Fidi
+
+	Dropped from: Sulfuron Harbinger
+	Date: Thu Jan 02 22:27:00 EET 2020
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Abrax
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 13 22:38:42 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Helm of Might
+Wowhead link: https://classic.wowhead.com/item=16866
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Thromgar
+
+	Dropped from: Garr
+	Date: Wed Jan 08 21:43:11 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Serbatoio
+
+	Dropped from: Garr
+	Date: Sun Jan 12 21:47:19 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Thorge
+
+	Dropped from: Garr
+	Date: Sun Dec 29 22:25:52 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Obershaw
+
+	Dropped from: Garr
+	Date: Wed Oct 09 21:34:12 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Dovo
+
+	Dropped from: Garr
+	Date: Wed Jan 15 21:43:34 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Razergore
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:16:55 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Malistar's Defender
+Wowhead link: https://classic.wowhead.com/item=17106
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Ragnaros
+	Date: Thu Oct 03 23:22:06 EEST 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 15 23:21:32 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:19:11 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 09 23:32:29 EEST 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Fidelkashtro
+
+	Dropped from: Ragnaros
+	Date: Mon Dec 30 00:11:46 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Xebec
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 06 23:10:35 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Nightslayer Bracelets
+Wowhead link: https://classic.wowhead.com/item=16825
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Jan 02 22:34:15 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Revan
+
+	Dropped from: Lucifron
+	Date: Sun Jan 12 21:16:00 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Tweez
+
+	Dropped from: Magmadar
+	Date: Sun Dec 15 21:28:09 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 15 22:09:58 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Jona
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 27 22:30:00 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 06 22:33:59 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Ring of Spell Power
+Wowhead link: https://classic.wowhead.com/item=19147
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Gehennas
+	Date: Wed Nov 27 21:37:18 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Kalypso
+
+	Dropped from: Magmadar
+	Date: Sun Jan 19 21:33:31 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Shlogy
+
+	Dropped from: Lucifron
+	Date: Wed Jan 08 21:14:03 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Shabanz
+
+	Dropped from: Gehennas
+	Date: Sun Dec 29 21:56:26 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Bantfat
+
+	Dropped from: Gehennas
+	Date: Wed Nov 20 21:42:47 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Smotla
+
+	Dropped from: Lucifron
+	Date: Wed Nov 13 21:20:53 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Robes of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16815
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Sep 26 23:13:42 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Flux
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 19 22:47:56 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Divnage
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 15 21:33:23 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Tuuj
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 06 22:39:37 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Tinull
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 13 22:49:57 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Bladekk
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 01 21:50:44 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Wristguards of True Flight
+Wowhead link: https://classic.wowhead.com/item=18812
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+	1.
+	==================
+	Player: Obershaw
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 06 22:48:38 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Nakogæd
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 12 22:30:02 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Rainny
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 20 23:03:37 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Hulklol
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Sep 29 22:49:53 EEST 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Fidi
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 23 22:59:30 EEST 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Finiir
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 11 22:35:14 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Aurastone Hammer
+Wowhead link: https://classic.wowhead.com/item=17105
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:30:39 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 12 21:57:36 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Oliho
+
+	Dropped from: Garr
+	Date: Sun Jan 19 22:06:15 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Oxy
+
+	Dropped from: Garr
+	Date: Sun Jan 05 21:57:30 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Jan 02 22:33:34 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Garr
+	Date: Wed Nov 13 22:03:20 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Xebec
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 06 22:09:51 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Band of Accuria
+Wowhead link: https://classic.wowhead.com/item=17063
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 27 23:12:04 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Volzagia
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 13 23:17:22 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Obershaw
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 15 23:08:35 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Dovo
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 23 23:48:57 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Cyborgg
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 12 22:38:56 EET 2020
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Ogral
+
+	Dropped from: Ragnaros
+	Date: Sun Nov 24 22:55:06 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Finiir
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 08 21:59:16 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Brutality Blade
+Wowhead link: https://classic.wowhead.com/item=18832
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 29 22:31:45 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Garr
+	Date: Sun Dec 08 20:54:34 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Untake
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 04 22:14:59 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 30 22:07:13 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Garr
+	Date: Wed Jan 08 21:42:27 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Bloodstyler
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 23 22:29:22 EEST 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Garr
+	Date: Wed Oct 09 21:39:38 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Core Forged Greaves
+Wowhead link: https://classic.wowhead.com/item=18806
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Thromgar
+
+	Dropped from: Ragnaros
+	Date: Thu Jan 02 22:58:04 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thorge
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 05 22:49:37 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Obershaw
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 22:58:15 EEST 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Dovo
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 08 22:28:01 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Ogral
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 22 23:03:30 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Rainny
+
+	Dropped from: Majordomo Executus
+	Date: Mon Dec 30 23:11:18 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Razergore
+
+	Dropped from: Majordomo Executus
+	Date: Thu Jan 02 22:59:17 EET 2020
+	Payed DKP: 0
+
+
+==================
+
+Item: Dragon's Blood Cape
+Wowhead link: https://classic.wowhead.com/item=17107
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 22 22:37:12 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 11 22:50:00 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Obershaw
+
+	Dropped from: Ragnaros
+	Date: Thu Jan 02 22:57:22 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Dovo
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:17:47 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Rainny
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 04 23:15:32 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Razergore
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 23:48:58 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Finiir
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 16 23:19:26 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Dragonstalker's Legguards
+Wowhead link: https://classic.wowhead.com/item=16938
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 22 22:35:51 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Mavvy
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 08 22:34:28 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Kylänkovin
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 08 22:02:33 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Nakogæd
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 18 23:07:15 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Hulklol
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 16 23:00:40 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Fidi
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 23 23:50:39 EEST 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Murlocjoe
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 04 23:13:34 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Vestments
+Wowhead link: https://classic.wowhead.com/item=16841
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Nov 24 22:01:48 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 01 21:48:42 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Oxy
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 29 23:21:18 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Jan 08 22:19:46 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Hakimi
+
+	Dropped from: Golemagg the Incinerator
+	Date: Mon Dec 30 22:59:30 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Xebec
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 06 22:40:18 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Björ
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Sep 26 23:14:45 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Felheart Robes
+Wowhead link: https://classic.wowhead.com/item=16809
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Trumpfive
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 11 22:58:45 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Razergore
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Oct 03 00:00:50 EEST 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rickshaw
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 18 22:46:59 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Oct 03 00:01:23 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Zerozerow
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Nov 24 22:02:22 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Splicy
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 30 22:48:54 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Sgtcheese
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 23 22:48:49 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Fire Runed Grimoire
+Wowhead link: https://classic.wowhead.com/item=19142
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Brännvin
+
+	Dropped from: Shazzrah
+	Date: Wed Jan 22 22:03:44 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Denharigen
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Jan 15 22:25:22 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Zenue
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 05 22:10:10 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Magmadar
+	Date: Wed Nov 20 21:34:36 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 27 22:55:31 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Shlogy
+
+	Dropped from: Gehennas
+	Date: Wed Dec 11 21:37:58 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Cylox
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 02 22:55:57 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Flameguard Gauntlets
+Wowhead link: https://classic.wowhead.com/item=19143
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Garr
+	Date: Wed Jan 22 21:42:09 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Volzagia
+
+	Dropped from: Garr
+	Date: Wed Jan 15 21:45:03 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Thorge
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 15 22:08:17 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Merzky
+
+	Dropped from: Magmadar
+	Date: Sun Jan 19 21:40:07 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Dovo
+
+	Dropped from: Magmadar
+	Date: Wed Nov 06 21:28:24 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Cyborgg
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 08 21:47:58 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Ogral
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 12 22:24:45 EET 2020
+	Payed DKP: -2
+
+
+==================
+
+Item: Giantstalker's Gloves
+Wowhead link: https://classic.wowhead.com/item=16852
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Shazzrah
+	Date: Mon Dec 30 22:32:48 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Kylänkovin
+
+	Dropped from: Shazzrah
+	Date: Sun Nov 24 21:32:25 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rollsonplate
+
+	Dropped from: Shazzrah
+	Date: Sun Jan 19 22:23:22 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hulklol
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 20 22:25:00 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Fidi
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 06 22:17:53 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Abrax
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 30 22:21:14 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Murlocjoe
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 01 21:26:43 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Girdle of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16817
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Onyxia
+	Date: Wed Nov 20 21:09:41 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Dnt
+
+	Dropped from: Magmadar
+	Date: Wed Jan 22 21:24:41 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Klex
+
+	Dropped from: Magmadar
+	Date: Wed Nov 06 21:31:52 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Cryptie
+
+	Dropped from: Onyxia
+	Date: Sun Dec 01 20:07:07 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Doctrine
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 29 22:38:05 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Akti
+
+	Dropped from: Shazzrah
+	Date: Wed Dec 18 22:11:30 EET 2019
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Blacknoir
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 09 22:33:56 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Gloves of the Hypnotic Flame
+Wowhead link: https://classic.wowhead.com/item=18808
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Cuden
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 22 22:29:02 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Toxicburn
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 29 23:42:26 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Shabanz
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 13 23:01:06 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Ponchy
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 27 23:02:10 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Zuzaroo
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 01 22:02:54 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Giltine
+
+	Dropped from: Majordomo Executus
+	Date: Wed Nov 06 22:47:20 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Riji
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Oct 03 00:12:44 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Legplates of Ten Storms
+Wowhead link: https://classic.wowhead.com/item=16946
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 15 23:43:15 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 15 23:03:49 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 06 23:17:14 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 09 23:31:10 EEST 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Hakimi
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 01 22:20:24 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Apolloze
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 15 23:02:33 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Xebec
+
+	Dropped from: Ragnaros
+	Date: Thu Oct 03 23:23:41 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Legplates of Wrath
+Wowhead link: https://classic.wowhead.com/item=16962
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Thromgar
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 04 23:12:37 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Ragnaros
+	Date: Mon Dec 30 00:05:21 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Obershaw
+
+	Dropped from: Ragnaros
+	Date: Thu Oct 03 23:25:12 EEST 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Dovo
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 15 22:52:44 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Razergore
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:13:45 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Finiir
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 23 23:49:41 EEST 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Denkwaden
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 08 22:00:20 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Obsidian Edged Blade
+Wowhead link: https://classic.wowhead.com/item=18822
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 27 23:17:15 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Golemagg the Incinerator
+	Date: Mon Dec 30 23:02:05 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Volzagia
+
+	Dropped from: Golemagg the Incinerator
+	Date: Thu Sep 26 23:18:41 EEST 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Thorge
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 05 22:43:05 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Cyborgg
+
+	Dropped from: Garr
+	Date: Sun Nov 24 21:15:55 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Ogral
+
+	Dropped from: Garr
+	Date: Sun Dec 01 20:54:24 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Sporc
+
+	Dropped from: Shazzrah
+	Date: Wed Dec 11 22:07:19 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Quick Strike Ring
+Wowhead link: https://classic.wowhead.com/item=18821
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Magmadar
+	Date: Wed Nov 27 21:25:48 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Volzagia
+
+	Dropped from: Garr
+	Date: Wed Nov 20 21:56:50 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Dovo
+
+	Dropped from: Garr
+	Date: Wed Nov 27 21:49:43 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Magmadar
+	Date: Wed Jan 15 21:29:33 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Garr
+	Date: Mon Dec 30 22:08:39 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Tweez
+
+	Dropped from: Magmadar
+	Date: Sun Dec 29 21:41:36 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Bradwarden
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 09 21:56:00 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Striker's Mark
+Wowhead link: https://classic.wowhead.com/item=17069
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+	1.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Magmadar
+	Date: Wed Oct 30 21:35:48 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Dovo
+
+	Dropped from: Magmadar
+	Date: Wed Oct 16 21:11:30 EEST 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Untake
+
+	Dropped from: Gehennas
+	Date: Wed Jan 08 21:34:29 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Thokana
+
+	Dropped from: Magmadar
+	Date: Wed Jan 15 21:26:07 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Magmadar
+	Date: Wed Dec 18 21:26:06 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Magmadar
+	Date: Wed Nov 27 21:32:09 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Sporc
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 11 21:54:41 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Netherwind Crown
+Wowhead link: https://classic.wowhead.com/item=16914
+
+Total Raids 40
+No. of Drops : 9
+Drop Rate : 22.5%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Onyxia
+	Date: Thu Oct 24 00:13:23 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Brännvin
+
+	Dropped from: Onyxia
+	Date: Wed Jan 22 22:55:52 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Onyxia
+	Date: Wed Jan 15 23:13:48 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Dapperdave
+
+	Dropped from: Onyxia
+	Date: Sun Jan 05 23:23:03 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Vilarrasa
+
+	Dropped from: Onyxia
+	Date: Wed Jan 08 22:55:00 EET 2020
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Shlogy
+
+	Dropped from: Onyxia
+	Date: Wed Dec 18 23:29:49 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Devotchka
+
+	Dropped from: Onyxia
+	Date: Sun Dec 01 22:41:17 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Kubi
+
+	Dropped from: Onyxia
+	Date: Thu Oct 24 00:13:10 EEST 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Cylox
+
+	Dropped from: Onyxia
+	Date: Wed Oct 09 23:58:11 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Ancient Cornerstone Grimoire
+Wowhead link: https://classic.wowhead.com/item=17067
+
+Total Raids 40
+No. of Drops : 10
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Demonstealer
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:46:16 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Skrig
+
+	Dropped from: Onyxia
+	Date: Sun Jan 05 23:24:28 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Toxicburn
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 00:39:14 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Kalypso
+
+	Dropped from: Onyxia
+	Date: Sun Jan 12 23:04:28 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Onyxia
+	Date: Wed Jan 15 23:16:59 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Rur
+
+	Dropped from: Onyxia
+	Date: Wed Jan 08 22:56:33 EET 2020
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Dapperdave
+
+	Dropped from: Onyxia
+	Date: Sun Dec 15 23:30:21 EET 2019
+	Payed DKP: 0
+
+	8.
+	==================
+	Player: Shlogy
+
+	Dropped from: Onyxia
+	Date: Wed Dec 18 23:30:46 EET 2019
+	Payed DKP: 0
+
+	9.
+	==================
+	Player: Icen
+
+	Dropped from: Onyxia
+	Date: Thu Nov 14 00:04:17 EET 2019
+	Payed DKP: 0
+
+	10.
+	==================
+	Player: Xebec
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:41:38 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Blastershot Launcher
+Wowhead link: https://classic.wowhead.com/item=17072
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Thromgar
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 22 22:31:10 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Obershaw
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 29 23:31:05 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 20 22:56:15 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Razergore
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 04 22:59:43 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: ßachstab
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 16 22:39:57 EEST 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Abrax
+
+	Dropped from: Majordomo Executus
+	Date: Wed Oct 30 22:56:21 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Finiir
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 11 22:45:12 EET 2019
+	Payed DKP: 0
+
+	8.
+	==================
+	Player: Denkwaden
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 01 21:55:27 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Breastplate of Might
+Wowhead link: https://classic.wowhead.com/item=16865
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Jan 15 23:32:06 EET 2020
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 11 22:34:26 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Dragonshield
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 12 22:25:02 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Thorge
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 19 22:46:34 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Obershaw
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 22:51:43 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Rainny
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Nov 27 22:47:26 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Razergore
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 16 22:29:03 EEST 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Denkwaden
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 08 21:50:04 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Choker of Enlightenment
+Wowhead link: https://classic.wowhead.com/item=17109
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Momsemor
+
+	Dropped from: Lucifron
+	Date: Sun Dec 29 21:30:36 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Portalbeast
+
+	Dropped from: Lucifron
+	Date: Thu Jan 02 21:13:35 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Magmadar
+	Date: Wed Dec 04 21:26:30 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Sacred
+
+	Dropped from: Lucifron
+	Date: Sun Dec 22 21:22:10 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Tinull
+
+	Dropped from: Lucifron
+	Date: Wed Dec 11 21:15:53 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Kubi
+
+	Dropped from: Lucifron
+	Date: Wed Nov 13 21:21:56 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Giltine
+
+	Dropped from: Lucifron
+	Date: Wed Oct 02 21:04:54 EEST 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Splicy
+
+	Dropped from: Lucifron
+	Date: Wed Oct 16 20:57:28 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Epaulets
+Wowhead link: https://classic.wowhead.com/item=16844
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 23 22:15:11 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 08 20:58:31 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 19 22:14:21 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Oxy
+
+	Dropped from: Baron Geddon
+	Date: Sun Nov 24 21:25:52 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 16 21:41:13 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 30 22:27:46 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Hakimi
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 18 22:00:33 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Apolloze
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:20:32 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Giantstalker's Belt
+Wowhead link: https://classic.wowhead.com/item=16851
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:26:15 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Mavvy
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Jan 08 22:18:31 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Nakogæd
+
+	Dropped from: Lucifron
+	Date: Wed Dec 18 21:16:07 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Hulklol
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 11 22:33:52 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Fidi
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 02 23:02:43 EEST 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Abrax
+
+	Dropped from: Shazzrah
+	Date: Sun Nov 24 21:39:38 EET 2019
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Murlocjoe
+
+	Dropped from: Garr
+	Date: Sun Dec 01 20:55:11 EET 2019
+	Payed DKP: -1
+
+	8.
+	==================
+	Player: Hantatoyobu
+
+	Dropped from: Magmadar
+	Date: Wed Oct 09 21:12:49 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Nightslayer Belt
+Wowhead link: https://classic.wowhead.com/item=16827
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Yodaal
+
+	Dropped from: Garr
+	Date: Sun Jan 05 21:58:23 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 15 22:12:39 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Gehennas
+	Date: Wed Nov 20 21:44:16 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Fudgedunker
+
+	Dropped from: Garr
+	Date: Sun Jan 12 21:41:36 EET 2020
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: ßachstab
+
+	Dropped from: Onyxia
+	Date: Wed Dec 04 21:07:46 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Molten Giant
+	Date: Sun Dec 29 21:17:08 EET 2019
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Jona
+
+	Dropped from: Gehennas
+	Date: Wed Oct 02 21:57:09 EEST 2019
+	Payed DKP: -1
+
+	8.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Gehennas
+	Date: Wed Oct 02 22:00:56 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Nightslayer Boots
+Wowhead link: https://classic.wowhead.com/item=16824
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Shazzrah
+	Date: Wed Jan 22 21:58:41 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Shazzrah
+	Date: Thu Sep 26 21:54:41 EEST 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Yodaal
+
+	Dropped from: Shazzrah
+	Date: Sun Jan 19 22:24:08 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 01 21:28:26 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Untake
+
+	Dropped from: Shazzrah
+	Date: Wed Jan 08 21:59:04 EET 2020
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 20 22:23:48 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: ßachstab
+
+	Dropped from: Shazzrah
+	Date: Thu Jan 02 22:15:18 EET 2020
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Gonzogenesis
+
+	Dropped from: Shazzrah
+	Date: Sun Nov 24 21:33:18 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nightslayer Gloves
+Wowhead link: https://classic.wowhead.com/item=16826
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Gehennas
+	Date: Sun Nov 24 20:49:43 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Gehennas
+	Date: Sun Jan 19 21:47:17 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Gehennas
+	Date: Wed Oct 23 21:39:50 EEST 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Fudgedunker
+
+	Dropped from: Gehennas
+	Date: Sun Dec 22 21:40:06 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Gehennas
+	Date: Wed Dec 04 21:34:54 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Gehennas
+	Date: Wed Nov 20 21:39:36 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Bloodstyler
+
+	Dropped from: Gehennas
+	Date: Wed Dec 18 21:33:16 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Gehennas
+	Date: Wed Nov 06 21:39:20 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nightslayer Pants
+Wowhead link: https://classic.wowhead.com/item=16822
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Magmadar
+	Date: Sun Dec 29 21:37:53 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Yodaal
+
+	Dropped from: Magmadar
+	Date: Sun Jan 12 21:20:23 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Magmadar
+	Date: Wed Dec 04 21:21:32 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Fudgedunker
+
+	Dropped from: Magmadar
+	Date: Sun Jan 05 21:25:35 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: ßachstab
+
+	Dropped from: Magmadar
+	Date: Wed Oct 23 21:28:40 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Gehennas
+	Date: Sun Dec 15 21:40:48 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Sonofdarknes
+
+	Dropped from: Magmadar
+	Date: Sun Dec 01 20:22:36 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Deiungerous
+
+	Dropped from: Magmadar
+	Date: Wed Nov 13 21:29:43 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Seal of the Archmagus
+Wowhead link: https://classic.wowhead.com/item=17110
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+	1.
+	==================
+	Player: Cuden
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 20 22:15:52 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Dovox
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 19 22:16:09 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Zenue
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:27:42 EET 2019
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 23 22:18:19 EEST 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 27 22:06:56 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Shlogy
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 04 22:14:26 EET 2019
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Fidelkashtro
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 29 22:37:20 EET 2019
+	Payed DKP: 0
+
+	8.
+	==================
+	Player: Shabanz
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 30 22:34:09 EET 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Arcanist Gloves
+Wowhead link: https://classic.wowhead.com/item=16801
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+	1.
+	==================
+	Player: Cuden
+
+	Dropped from: Shazzrah
+	Date: Wed Jan 22 21:58:12 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Mcfresh
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 15 22:19:09 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Toxicburn
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 29 22:43:24 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Zenue
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 04 22:49:50 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 13 22:25:08 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Altessa
+
+	Dropped from: Shazzrah
+	Date: Sun Jan 12 22:02:42 EET 2020
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Portalbeast
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 08 21:08:43 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Kubi
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 09 22:07:47 EEST 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Giltine
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 16 22:00:01 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Arcanist Mantle
+Wowhead link: https://classic.wowhead.com/item=16797
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+	1.
+	==================
+	Player: Mcfresh
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 01 21:10:41 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Toxicburn
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 05 22:06:32 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Portalbeast
+
+	Dropped from: Baron Geddon
+	Date: Sun Jan 12 21:55:21 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Ponchy
+
+	Dropped from: Baron Geddon
+	Date: Wed Dec 11 21:58:25 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Cylox
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 06 22:05:33 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Giltine
+
+	Dropped from: Baron Geddon
+	Date: Wed Nov 13 22:07:10 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Undefeated
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 16 21:41:50 EEST 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Picklenex
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 09 21:54:27 EEST 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Haines
+
+	Dropped from: Baron Geddon
+	Date: Wed Oct 02 22:51:47 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Earthfury Bracers
+Wowhead link: https://classic.wowhead.com/item=16840
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+	1.
+	==================
+	Player: Rainyy
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Nov 24 21:56:35 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Yourgrounded
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:29:57 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Slydewhoosh
+
+	Dropped from: Onyxia
+	Date: Sun Dec 01 20:06:17 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Oxy
+
+	Dropped from: Gehennas
+	Date: Wed Nov 13 21:44:22 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Nastycanasta
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 20 22:27:41 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Zanx
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Jan 15 22:18:25 EET 2020
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Hikkorom
+
+	Dropped from: Lucifron
+	Date: Wed Nov 13 21:23:40 EET 2019
+	Payed DKP: -1
+
+	8.
+	==================
+	Player: Apolloze
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 08 21:03:47 EET 2019
+	Payed DKP: -1
+
+	9.
+	==================
+	Player: Xebec
+
+	Dropped from: MC Trash
+	Date: Wed Oct 16 20:36:36 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Giantstalker's Leggings
+Wowhead link: https://classic.wowhead.com/item=16847
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+	1.
+	==================
+	Player: Luckyluke
+
+	Dropped from: Magmadar
+	Date: Thu Jan 02 21:21:09 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Mavvy
+
+	Dropped from: Magmadar
+	Date: Wed Jan 08 21:17:16 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Rollsonplate
+
+	Dropped from: Magmadar
+	Date: Sun Jan 19 21:39:11 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Nakogæd
+
+	Dropped from: Magmadar
+	Date: Sun Dec 08 20:24:05 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Hulklol
+
+	Dropped from: Magmadar
+	Date: Wed Oct 02 21:15:11 EEST 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Fidi
+
+	Dropped from: Magmadar
+	Date: Wed Oct 16 21:00:55 EEST 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Abrax
+
+	Dropped from: Magmadar
+	Date: Sun Nov 24 20:34:56 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Durp
+
+	Dropped from: Magmadar
+	Date: Sun Dec 22 21:26:38 EET 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Murlocjoe
+
+	Dropped from: Magmadar
+	Date: Sun Dec 01 20:23:02 EET 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Nightslayer Shoulder Pads
+Wowhead link: https://classic.wowhead.com/item=16823
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 29 23:01:36 EET 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 11 22:27:39 EET 2019
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Revan
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Jan 19 22:37:27 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Cptinsano
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Jan 12 22:19:26 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Untake
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Jan 15 22:15:17 EET 2020
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: ßachstab
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Dec 18 22:34:36 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 08 21:33:27 EET 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Sonofdarknes
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 01 21:40:15 EET 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Bloodstyler
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 23 22:38:56 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Vambraces of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16819
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 11 22:35:49 EET 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Flux
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 22 23:00:57 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Divnage
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 22 22:23:04 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Klex
+
+	Dropped from: Magmadar
+	Date: Wed Oct 23 21:33:47 EEST 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Doktoras
+
+	Dropped from: Baron Geddon
+	Date: Sun Dec 08 21:04:43 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Cryptie
+
+	Dropped from: Shazzrah
+	Date: Sun Nov 24 21:39:01 EET 2019
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Slapheed
+
+	Dropped from: Shazzrah
+	Date: Sun Dec 01 21:33:45 EET 2019
+	Payed DKP: -1
+
+	8.
+	==================
+	Player: Pricis
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 01 21:42:51 EET 2019
+	Payed DKP: -1
+
+	9.
+	==================
+	Player: Blacknoir
+
+	Dropped from: Shazzrah
+	Date: Thu Sep 26 22:01:14 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Gloves of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16812
+
+Total Raids 32
+No. of Drops : 10
+Drop Rate : 31.25%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Gehennas
+	Date: Wed Oct 02 21:38:43 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Soccapunch
+
+	Dropped from: Garr
+	Date: Wed Jan 22 21:40:40 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Flux
+
+	Dropped from: Gehennas
+	Date: Sun Dec 29 21:57:35 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Divnage
+
+	Dropped from: Gehennas
+	Date: Sun Jan 12 21:28:38 EET 2020
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Klex
+
+	Dropped from: Baron Geddon
+	Date: Wed Jan 08 21:52:40 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Doktoras
+
+	Dropped from: Gehennas
+	Date: Mon Dec 30 21:48:07 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Tuuj
+
+	Dropped from: Gehennas
+	Date: Sun Jan 05 21:36:51 EET 2020
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Akti
+
+	Dropped from: Gehennas
+	Date: Wed Oct 16 21:17:12 EEST 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Slapheed
+
+	Dropped from: Gehennas
+	Date: Sun Dec 15 21:41:42 EET 2019
+	Payed DKP: -2
+
+	10.
+	==================
+	Player: Treldar
+
+	Dropped from: Gehennas
+	Date: Wed Oct 09 21:17:54 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Mantle of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16816
+
+Total Raids 32
+No. of Drops : 10
+Drop Rate : 31.25%
+	1.
+	==================
+	Player: Soccapunch
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Jan 15 22:14:42 EET 2020
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Divnage
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Dec 15 22:37:11 EET 2019
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Klex
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 30 22:40:42 EET 2019
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Sacred
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 15 22:35:05 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Tuuj
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Dec 11 22:27:07 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Cryptie
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Dec 08 21:32:58 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Akti
+
+	Dropped from: Sulfuron Harbinger
+	Date: Thu Sep 26 22:48:47 EEST 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Tinull
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 06 22:30:54 EET 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Bladekk
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Dec 04 22:36:46 EET 2019
+	Payed DKP: 0
+
+	10.
+	==================
+	Player: Treldar
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 23 22:39:59 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Pauldrons of Might
+Wowhead link: https://classic.wowhead.com/item=16868
+
+Total Raids 32
+No. of Drops : 10
+Drop Rate : 31.25%
+	1.
+	==================
+	Player: Moskri
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 06 22:30:00 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Thromgar
+
+	Dropped from: Sulfuron Harbinger
+	Date: Thu Jan 02 22:23:15 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Volzagia
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Jan 22 22:12:27 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Serbatoio
+
+	Dropped from: Sulfuron Harbinger
+	Date: Sun Nov 24 21:53:11 EET 2019
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Thorge
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Jan 05 22:39:52 EET 2020
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Obershaw
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 16 22:19:23 EEST 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Dovo
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 30 22:39:13 EET 2019
+	Payed DKP: 0
+
+	8.
+	==================
+	Player: Rainny
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Nov 27 22:34:36 EET 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Razergore
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 09 22:39:44 EEST 2019
+	Payed DKP: -2
+
+	10.
+	==================
+	Player: Finiir
+
+	Dropped from: Sulfuron Harbinger
+	Date: Wed Oct 02 23:50:34 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Choker of the Fire Lord
+Wowhead link: https://classic.wowhead.com/item=18814
+
+Total Raids 32
+No. of Drops : 11
+Drop Rate : 34.375%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 09 23:33:17 EEST 2019
+	Payed DKP: -2
+
+	2.
+	==================
+	Player: Trumpfive
+
+	Dropped from: Ragnaros
+	Date: Wed Jan 22 22:36:14 EET 2020
+	Payed DKP: -2
+
+	3.
+	==================
+	Player: Cuden
+
+	Dropped from: Ragnaros
+	Date: Thu Jan 02 22:56:18 EET 2020
+	Payed DKP: -2
+
+	4.
+	==================
+	Player: Gaskie
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 04 23:22:08 EET 2019
+	Payed DKP: -2
+
+	5.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 20 23:21:14 EET 2019
+	Payed DKP: -2
+
+	6.
+	==================
+	Player: Klex
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 11 22:50:51 EET 2019
+	Payed DKP: -2
+
+	7.
+	==================
+	Player: Shlogy
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 16 23:15:43 EEST 2019
+	Payed DKP: -2
+
+	8.
+	==================
+	Player: Akti
+
+	Dropped from: Ragnaros
+	Date: Wed Dec 18 23:07:58 EET 2019
+	Payed DKP: -2
+
+	9.
+	==================
+	Player: Bantfat
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 23 23:51:24 EEST 2019
+	Payed DKP: -2
+
+	10.
+	==================
+	Player: Busmanslam
+
+	Dropped from: Ragnaros
+	Date: Wed Nov 13 23:15:41 EET 2019
+	Payed DKP: -2
+
+	11.
+	==================
+	Player: Smotla
+
+	Dropped from: Ragnaros
+	Date: Thu Oct 03 23:26:43 EEST 2019
+	Payed DKP: -2
+
+
+==================
+
+Item: Arcanist Bindings
+Wowhead link: https://classic.wowhead.com/item=16799
+
+Total Raids 32
+No. of Drops : 12
+Drop Rate : 37.5%
+	1.
+	==================
+	Player: Lainey
+
+	Dropped from: Magmadar
+	Date: Wed Oct 02 21:33:01 EEST 2019
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Brännvin
+
+	Dropped from: Gehennas
+	Date: Wed Jan 08 21:35:14 EET 2020
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Cuden
+
+	Dropped from: Shazzrah
+	Date: Wed Nov 27 22:19:14 EET 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Kalypso
+
+	Dropped from: Gehennas
+	Date: Sun Dec 22 21:38:04 EET 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Uglymoe
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 22:59:19 EEST 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Taikurivittu
+
+	Dropped from: Garr
+	Date: Thu Jan 02 21:50:00 EET 2020
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Dapperdave
+
+	Dropped from: Gehennas
+	Date: Wed Jan 15 21:36:35 EET 2020
+	Payed DKP: -1
+
+	8.
+	==================
+	Player: Vilarrasa
+
+	Dropped from: Lucifron
+	Date: Mon Dec 30 21:23:46 EET 2019
+	Payed DKP: -1
+
+	9.
+	==================
+	Player: Shlogy
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 01 22:03:53 EET 2019
+	Payed DKP: -1
+
+	10.
+	==================
+	Player: Zuelejiin
+
+	Dropped from: Sulfuron Harbinger
+	Date: Mon Dec 30 22:50:01 EET 2019
+	Payed DKP: -1
+
+	11.
+	==================
+	Player: Cylox
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 02 23:29:00 EEST 2019
+	Payed DKP: -1
+
+	12.
+	==================
+	Player: Giltine
+
+	Dropped from: Shazzrah
+	Date: Wed Oct 16 22:10:26 EEST 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: The Eye of Divinity
+Wowhead link: https://classic.wowhead.com/item=18646
+
+Total Raids 32
+No. of Drops : 16
+Drop Rate : 50.0%
+	1.
+	==================
+	Player: Gaskie
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:19:42 EET 2019
+	Payed DKP: 0
+
+	2.
+	==================
+	Player: Dnt
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 22 22:24:52 EET 2020
+	Payed DKP: 0
+
+	3.
+	==================
+	Player: Soccapunch
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 15 22:39:38 EET 2020
+	Payed DKP: 0
+
+	4.
+	==================
+	Player: Flux
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 19 23:08:15 EET 2020
+	Payed DKP: 0
+
+	5.
+	==================
+	Player: Klex
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 18 23:00:29 EET 2019
+	Payed DKP: 0
+
+	6.
+	==================
+	Player: Osham
+
+	Dropped from: Majordomo Executus
+	Date: Wed Jan 08 22:23:59 EET 2020
+	Payed DKP: 0
+
+	7.
+	==================
+	Player: Doktoras
+
+	Dropped from: Ragnaros
+	Date: Sun Dec 08 22:03:09 EET 2019
+	Payed DKP: 0
+
+	8.
+	==================
+	Player: Sacred
+
+	Dropped from: Majordomo Executus
+	Date: Sun Jan 05 22:47:50 EET 2020
+	Payed DKP: 0
+
+	9.
+	==================
+	Player: Cryptie
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 29 23:37:43 EET 2019
+	Payed DKP: 0
+
+	10.
+	==================
+	Player: Akti
+
+	Dropped from: Golemagg the Incinerator
+	Date: Wed Oct 09 23:12:26 EEST 2019
+	Payed DKP: 0
+
+	11.
+	==================
+	Player: Tinull
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 11 22:37:13 EET 2019
+	Payed DKP: 0
+
+	12.
+	==================
+	Player: Slapheed
+
+	Dropped from: Majordomo Executus
+	Date: Wed Dec 04 23:03:39 EET 2019
+	Payed DKP: 0
+
+	13.
+	==================
+	Player: Pricis
+
+	Dropped from: Majordomo Executus
+	Date: Sun Dec 01 22:08:26 EET 2019
+	Payed DKP: 0
+
+	14.
+	==================
+	Player: Darkpriestz
+
+	Dropped from: Majordomo Executus
+	Date: Sun Nov 24 22:42:57 EET 2019
+	Payed DKP: 0
+
+	15.
+	==================
+	Player: Treldar
+
+	Dropped from: Onyxia
+	Date: Wed Nov 06 23:29:01 EET 2019
+	Payed DKP: 0
+
+	16.
+	==================
+	Player: Blacknoir
+
+	Dropped from: Golemagg the Incinerator
+	Date: Sun Sep 29 22:48:48 EEST 2019
+	Payed DKP: 0
+
+
+==================
+
+Item: Head of Onyxia
+Wowhead link: https://classic.wowhead.com/item=18422
+
+Total Raids 40
+No. of Drops : 23
+Drop Rate : 57.49999999999999%
+	1.
+	==================
+	Player: Vishop
+
+	Dropped from: Onyxia
+	Date: Wed Jan 22 22:56:56 EET 2020
+	Payed DKP: -1
+
+	2.
+	==================
+	Player: Moskri
+
+	Dropped from: Onyxia
+	Date: Wed Dec 11 23:10:21 EET 2019
+	Payed DKP: -1
+
+	3.
+	==================
+	Player: Drxaiva
+
+	Dropped from: Onyxia
+	Date: Thu Oct 24 00:15:25 EEST 2019
+	Payed DKP: -1
+
+	4.
+	==================
+	Player: Volzagia
+
+	Dropped from: Onyxia
+	Date: Thu Oct 10 00:00:52 EEST 2019
+	Payed DKP: -1
+
+	5.
+	==================
+	Player: Serbatoio
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 00:38:13 EET 2019
+	Payed DKP: -1
+
+	6.
+	==================
+	Player: Kylänkovin
+
+	Dropped from: Ragnaros
+	Date: Sun Jan 19 23:42:58 EET 2020
+	Payed DKP: -1
+
+	7.
+	==================
+	Player: Thorge
+
+	Dropped from: Onyxia
+	Date: Sun Dec 01 22:47:08 EET 2019
+	Payed DKP: -1
+
+	8.
+	==================
+	Player: Merzky
+
+	Dropped from: Onyxia
+	Date: Sun Dec 15 23:30:51 EET 2019
+	Payed DKP: -1
+
+	9.
+	==================
+	Player: Blodtørst
+
+	Dropped from: Onyxia
+	Date: Wed Jan 15 23:14:47 EET 2020
+	Payed DKP: -1
+
+	10.
+	==================
+	Player: Obershaw
+
+	Dropped from: Onyxia
+	Date: Wed Dec 04 23:38:02 EET 2019
+	Payed DKP: -1
+
+	11.
+	==================
+	Player: Dovo
+
+	Dropped from: Onyxia
+	Date: Wed Oct 16 23:32:04 EEST 2019
+	Payed DKP: -1
+
+	12.
+	==================
+	Player: Untake
+
+	Dropped from: Onyxia
+	Date: Wed Jan 08 22:55:27 EET 2020
+	Payed DKP: -1
+
+	13.
+	==================
+	Player: Barneskirenn
+
+	Dropped from: Onyxia
+	Date: Wed Nov 06 23:28:36 EET 2019
+	Payed DKP: -1
+
+	14.
+	==================
+	Player: Fudgedunker
+
+	Dropped from: Onyxia
+	Date: Sun Jan 12 23:04:09 EET 2020
+	Payed DKP: -1
+
+	15.
+	==================
+	Player: Ogral
+
+	Dropped from: Onyxia
+	Date: Sun Dec 22 23:36:26 EET 2019
+	Payed DKP: -1
+
+	16.
+	==================
+	Player: Voksihaaret
+
+	Dropped from: Onyxia
+	Date: Mon Dec 30 23:50:41 EET 2019
+	Payed DKP: -1
+
+	17.
+	==================
+	Player: Tweez
+
+	Dropped from: Onyxia
+	Date: Sun Jan 05 23:23:38 EET 2020
+	Payed DKP: -1
+
+	18.
+	==================
+	Player: Rainny
+
+	Dropped from: Onyxia
+	Date: Wed Nov 20 23:40:56 EET 2019
+	Payed DKP: -1
+
+	19.
+	==================
+	Player: Razergore
+
+	Dropped from: Onyxia
+	Date: Sun Nov 24 23:27:36 EET 2019
+	Payed DKP: -1
+
+	20.
+	==================
+	Player: Hulklol
+
+	Dropped from: Onyxia
+	Date: Thu Nov 14 00:06:00 EET 2019
+	Payed DKP: -1
+
+	21.
+	==================
+	Player: ßachstab
+
+	Dropped from: Ragnaros
+	Date: Wed Oct 30 23:40:17 EET 2019
+	Payed DKP: -1
+
+	22.
+	==================
+	Player: Doomseeker
+
+	Dropped from: Onyxia
+	Date: Thu Nov 28 00:07:29 EET 2019
+	Payed DKP: -1
+
+	23.
+	==================
+	Player: Bloodstyler
+
+	Dropped from: Onyxia
+	Date: Wed Dec 18 23:30:12 EET 2019
+	Payed DKP: -1
+
+
+==================
+
+Item: Deathbringer
+Wowhead link: https://classic.wowhead.com/item=17068
+
+Total Raids 40
+No. of Drops : 1
+Drop Rate : 2.5%
+
+==================
+
+Item: Vis'kag the Bloodletter
+Wowhead link: https://classic.wowhead.com/item=17075
+
+Total Raids 40
+No. of Drops : 1
+Drop Rate : 2.5%
+
+==================
+
+Item: Earthfury Legguards
+Wowhead link: https://classic.wowhead.com/item=16843
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Felheart Pants
+Wowhead link: https://classic.wowhead.com/item=16810
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Giantstalker's Bracers
+Wowhead link: https://classic.wowhead.com/item=16850
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Maiden's Circle
+Wowhead link: https://classic.wowhead.com/item=13001
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Manastorm Leggings
+Wowhead link: https://classic.wowhead.com/item=18872
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Onslaught Girdle
+Wowhead link: https://classic.wowhead.com/item=19137
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Perdition's Blade
+Wowhead link: https://classic.wowhead.com/item=18816
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Shard of the Flame
+Wowhead link: https://classic.wowhead.com/item=17082
+
+Total Raids 32
+No. of Drops : 1
+Drop Rate : 3.125%
+
+==================
+
+Item: Arcanist Belt
+Wowhead link: https://classic.wowhead.com/item=16802
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Bindings of the Windseeker
+Wowhead link: https://classic.wowhead.com/item=18564
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Bonereaver's Edge
+Wowhead link: https://classic.wowhead.com/item=17076
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Cenarion Bracers
+Wowhead link: https://classic.wowhead.com/item=16830
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Cenarion Helm
+Wowhead link: https://classic.wowhead.com/item=16834
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Deep Earth Spaulders
+Wowhead link: https://classic.wowhead.com/item=18829
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Earthshaker
+Wowhead link: https://classic.wowhead.com/item=17073
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Finkle's Lava Dredger
+Wowhead link: https://classic.wowhead.com/item=18803
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Helm of the Lifegiver
+Wowhead link: https://classic.wowhead.com/item=18870
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Legplates of Might
+Wowhead link: https://classic.wowhead.com/item=16867
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Sabatons of the Flamewalker
+Wowhead link: https://classic.wowhead.com/item=19144
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Stormrage Cover
+Wowhead link: https://classic.wowhead.com/item=16900
+
+Total Raids 32
+No. of Drops : 2
+Drop Rate : 6.25%
+
+==================
+
+Item: Nemesis Skullcap
+Wowhead link: https://classic.wowhead.com/item=16929
+
+Total Raids 40
+No. of Drops : 3
+Drop Rate : 7.5%
+
+==================
+
+Item: Ring of Binding
+Wowhead link: https://classic.wowhead.com/item=18813
+
+Total Raids 40
+No. of Drops : 3
+Drop Rate : 7.5%
+
+==================
+
+Item: Ancient Petrified Leaf
+Wowhead link: https://classic.wowhead.com/item=18703
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Bracers of Might
+Wowhead link: https://classic.wowhead.com/item=16861
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Cenarion Belt
+Wowhead link: https://classic.wowhead.com/item=16828
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Cenarion Boots
+Wowhead link: https://classic.wowhead.com/item=16829
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Cenarion Leggings
+Wowhead link: https://classic.wowhead.com/item=16835
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Crimson Shocker
+Wowhead link: https://classic.wowhead.com/item=17077
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Crown of Destruction
+Wowhead link: https://classic.wowhead.com/item=18817
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Earthfury Belt
+Wowhead link: https://classic.wowhead.com/item=16838
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Felheart Shoulder Pads
+Wowhead link: https://classic.wowhead.com/item=16807
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Gauntlets of Might
+Wowhead link: https://classic.wowhead.com/item=16863
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Leggings of Transcendence
+Wowhead link: https://classic.wowhead.com/item=16922
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Nightslayer Cover
+Wowhead link: https://classic.wowhead.com/item=16821
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Pants of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16814
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Sash of Whispered Secrets
+Wowhead link: https://classic.wowhead.com/item=18809
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Sorcerous Dagger
+Wowhead link: https://classic.wowhead.com/item=18878
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Staff of Dominance
+Wowhead link: https://classic.wowhead.com/item=18842
+
+Total Raids 32
+No. of Drops : 3
+Drop Rate : 9.375%
+
+==================
+
+Item: Eskhandar's Collar
+Wowhead link: https://classic.wowhead.com/item=18205
+
+Total Raids 40
+No. of Drops : 4
+Drop Rate : 10.0%
+
+==================
+
+Item: Helmet of Ten Storms
+Wowhead link: https://classic.wowhead.com/item=16947
+
+Total Raids 40
+No. of Drops : 4
+Drop Rate : 10.0%
+
+==================
+
+Item: Aged Core Leather Gloves
+Wowhead link: https://classic.wowhead.com/item=18823
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Arcanist Leggings
+Wowhead link: https://classic.wowhead.com/item=16796
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Arcanist Robes
+Wowhead link: https://classic.wowhead.com/item=16798
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Bloodfang Pants
+Wowhead link: https://classic.wowhead.com/item=16909
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Cenarion Vestments
+Wowhead link: https://classic.wowhead.com/item=16833
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Circlet of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16813
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Dragonstalker's Helm
+Wowhead link: https://classic.wowhead.com/item=16939
+
+Total Raids 40
+No. of Drops : 5
+Drop Rate : 12.5%
+
+==================
+
+Item: Earthfury Helmet
+Wowhead link: https://classic.wowhead.com/item=16842
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Essence of the Pure Flame
+Wowhead link: https://classic.wowhead.com/item=18815
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Felheart Belt
+Wowhead link: https://classic.wowhead.com/item=16806
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Felheart Slippers
+Wowhead link: https://classic.wowhead.com/item=16803
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Fireguard Shoulders
+Wowhead link: https://classic.wowhead.com/item=19139
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Fireproof Cloak
+Wowhead link: https://classic.wowhead.com/item=18811
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Giantstalker's Breastplate
+Wowhead link: https://classic.wowhead.com/item=16845
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Giantstalker's Helmet
+Wowhead link: https://classic.wowhead.com/item=16846
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Gutgore Ripper
+Wowhead link: https://classic.wowhead.com/item=17071
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Heavy Dark Iron Ring
+Wowhead link: https://classic.wowhead.com/item=18879
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Mana Igniting Cord
+Wowhead link: https://classic.wowhead.com/item=19136
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Medallion of Steadfast Might
+Wowhead link: https://classic.wowhead.com/item=17065
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Stormrage Legguards
+Wowhead link: https://classic.wowhead.com/item=16901
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Wild Growth Spaulders
+Wowhead link: https://classic.wowhead.com/item=18810
+
+Total Raids 32
+No. of Drops : 4
+Drop Rate : 12.5%
+
+==================
+
+Item: Bloodfang Hood
+Wowhead link: https://classic.wowhead.com/item=16908
+
+Total Raids 40
+No. of Drops : 6
+Drop Rate : 15.0%
+
+==================
+
+Item: Helm of Wrath
+Wowhead link: https://classic.wowhead.com/item=16963
+
+Total Raids 40
+No. of Drops : 6
+Drop Rate : 15.0%
+
+==================
+
+Item: Sapphiron Drape
+Wowhead link: https://classic.wowhead.com/item=17078
+
+Total Raids 40
+No. of Drops : 6
+Drop Rate : 15.0%
+
+==================
+
+Item: Arcanist Boots
+Wowhead link: https://classic.wowhead.com/item=16800
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Azuresong Mageblade
+Wowhead link: https://classic.wowhead.com/item=17103
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Belt of Might
+Wowhead link: https://classic.wowhead.com/item=16864
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Boots of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16811
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Cenarion Gloves
+Wowhead link: https://classic.wowhead.com/item=16831
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Cenarion Spaulders
+Wowhead link: https://classic.wowhead.com/item=16836
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Cloak of the Shrouded Mists
+Wowhead link: https://classic.wowhead.com/item=17102
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Earthfury Boots
+Wowhead link: https://classic.wowhead.com/item=16837
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Earthfury Gauntlets
+Wowhead link: https://classic.wowhead.com/item=16839
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Felheart Horns
+Wowhead link: https://classic.wowhead.com/item=16808
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Flamewaker Legplates
+Wowhead link: https://classic.wowhead.com/item=18861
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Giantstalker's Boots
+Wowhead link: https://classic.wowhead.com/item=16849
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Nemesis Leggings
+Wowhead link: https://classic.wowhead.com/item=16930
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Netherwind Pants
+Wowhead link: https://classic.wowhead.com/item=16915
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Nightslayer Chestpiece
+Wowhead link: https://classic.wowhead.com/item=16820
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Robe of Volatile Power
+Wowhead link: https://classic.wowhead.com/item=19145
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Sabatons of Might
+Wowhead link: https://classic.wowhead.com/item=16862
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Salamander Scale Pants
+Wowhead link: https://classic.wowhead.com/item=18875
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Talisman of Ephemeral Power
+Wowhead link: https://classic.wowhead.com/item=18820
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Wristguards of Stability
+Wowhead link: https://classic.wowhead.com/item=19146
+
+Total Raids 32
+No. of Drops : 5
+Drop Rate : 15.625%
+
+==================
+
+Item: Halo of Transcendence
+Wowhead link: https://classic.wowhead.com/item=16921
+
+Total Raids 40
+No. of Drops : 7
+Drop Rate : 17.5%
+
+==================
+
+Item: Arcanist Crown
+Wowhead link: https://classic.wowhead.com/item=16795
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Band of Sulfuras
+Wowhead link: https://classic.wowhead.com/item=19138
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Cauterizing Band
+Wowhead link: https://classic.wowhead.com/item=19140
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Core Hound Tooth
+Wowhead link: https://classic.wowhead.com/item=18805
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Drillborer Disk
+Wowhead link: https://classic.wowhead.com/item=17066
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Eskhandar's Right Claw
+Wowhead link: https://classic.wowhead.com/item=18203
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Felheart Bracers
+Wowhead link: https://classic.wowhead.com/item=16804
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Felheart Gloves
+Wowhead link: https://classic.wowhead.com/item=16805
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Giantstalker's Epaulets
+Wowhead link: https://classic.wowhead.com/item=16848
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Helm of Might
+Wowhead link: https://classic.wowhead.com/item=16866
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Malistar's Defender
+Wowhead link: https://classic.wowhead.com/item=17106
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Nightslayer Bracelets
+Wowhead link: https://classic.wowhead.com/item=16825
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Ring of Spell Power
+Wowhead link: https://classic.wowhead.com/item=19147
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Robes of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16815
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Wristguards of True Flight
+Wowhead link: https://classic.wowhead.com/item=18812
+
+Total Raids 32
+No. of Drops : 6
+Drop Rate : 18.75%
+
+==================
+
+Item: Aurastone Hammer
+Wowhead link: https://classic.wowhead.com/item=17105
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Band of Accuria
+Wowhead link: https://classic.wowhead.com/item=17063
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Brutality Blade
+Wowhead link: https://classic.wowhead.com/item=18832
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Core Forged Greaves
+Wowhead link: https://classic.wowhead.com/item=18806
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Dragon's Blood Cape
+Wowhead link: https://classic.wowhead.com/item=17107
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Dragonstalker's Legguards
+Wowhead link: https://classic.wowhead.com/item=16938
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Earthfury Vestments
+Wowhead link: https://classic.wowhead.com/item=16841
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Felheart Robes
+Wowhead link: https://classic.wowhead.com/item=16809
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Fire Runed Grimoire
+Wowhead link: https://classic.wowhead.com/item=19142
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Flameguard Gauntlets
+Wowhead link: https://classic.wowhead.com/item=19143
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Giantstalker's Gloves
+Wowhead link: https://classic.wowhead.com/item=16852
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Girdle of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16817
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Gloves of the Hypnotic Flame
+Wowhead link: https://classic.wowhead.com/item=18808
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Legplates of Ten Storms
+Wowhead link: https://classic.wowhead.com/item=16946
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Legplates of Wrath
+Wowhead link: https://classic.wowhead.com/item=16962
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Obsidian Edged Blade
+Wowhead link: https://classic.wowhead.com/item=18822
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Quick Strike Ring
+Wowhead link: https://classic.wowhead.com/item=18821
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Striker's Mark
+Wowhead link: https://classic.wowhead.com/item=17069
+
+Total Raids 32
+No. of Drops : 7
+Drop Rate : 21.875%
+
+==================
+
+Item: Netherwind Crown
+Wowhead link: https://classic.wowhead.com/item=16914
+
+Total Raids 40
+No. of Drops : 9
+Drop Rate : 22.5%
+
+==================
+
+Item: Ancient Cornerstone Grimoire
+Wowhead link: https://classic.wowhead.com/item=17067
+
+Total Raids 40
+No. of Drops : 10
+Drop Rate : 25.0%
+
+==================
+
+Item: Blastershot Launcher
+Wowhead link: https://classic.wowhead.com/item=17072
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Breastplate of Might
+Wowhead link: https://classic.wowhead.com/item=16865
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Choker of Enlightenment
+Wowhead link: https://classic.wowhead.com/item=17109
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Earthfury Epaulets
+Wowhead link: https://classic.wowhead.com/item=16844
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Giantstalker's Belt
+Wowhead link: https://classic.wowhead.com/item=16851
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Nightslayer Belt
+Wowhead link: https://classic.wowhead.com/item=16827
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Nightslayer Boots
+Wowhead link: https://classic.wowhead.com/item=16824
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Nightslayer Gloves
+Wowhead link: https://classic.wowhead.com/item=16826
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Nightslayer Pants
+Wowhead link: https://classic.wowhead.com/item=16822
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Seal of the Archmagus
+Wowhead link: https://classic.wowhead.com/item=17110
+
+Total Raids 32
+No. of Drops : 8
+Drop Rate : 25.0%
+
+==================
+
+Item: Arcanist Gloves
+Wowhead link: https://classic.wowhead.com/item=16801
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+
+==================
+
+Item: Arcanist Mantle
+Wowhead link: https://classic.wowhead.com/item=16797
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+
+==================
+
+Item: Earthfury Bracers
+Wowhead link: https://classic.wowhead.com/item=16840
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+
+==================
+
+Item: Giantstalker's Leggings
+Wowhead link: https://classic.wowhead.com/item=16847
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+
+==================
+
+Item: Nightslayer Shoulder Pads
+Wowhead link: https://classic.wowhead.com/item=16823
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+
+==================
+
+Item: Vambraces of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16819
+
+Total Raids 32
+No. of Drops : 9
+Drop Rate : 28.125%
+
+==================
+
+Item: Gloves of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16812
+
+Total Raids 32
+No. of Drops : 10
+Drop Rate : 31.25%
+
+==================
+
+Item: Mantle of Prophecy
+Wowhead link: https://classic.wowhead.com/item=16816
+
+Total Raids 32
+No. of Drops : 10
+Drop Rate : 31.25%
+
+==================
+
+Item: Pauldrons of Might
+Wowhead link: https://classic.wowhead.com/item=16868
+
+Total Raids 32
+No. of Drops : 10
+Drop Rate : 31.25%
+
+==================
+
+Item: Choker of the Fire Lord
+Wowhead link: https://classic.wowhead.com/item=18814
+
+Total Raids 32
+No. of Drops : 11
+Drop Rate : 34.375%
+
+==================
+
+Item: Arcanist Bindings
+Wowhead link: https://classic.wowhead.com/item=16799
+
+Total Raids 32
+No. of Drops : 12
+Drop Rate : 37.5%
+
+==================
+
+Item: The Eye of Divinity
+Wowhead link: https://classic.wowhead.com/item=18646
+
+Total Raids 32
+No. of Drops : 16
+Drop Rate : 50.0%
+
+==================
+
+Item: Head of Onyxia
+Wowhead link: https://classic.wowhead.com/item=18422
+
+Total Raids 40
+No. of Drops : 23
+Drop Rate : 57.49999999999999%
+BUILD SUCCESSFUL (total time: 0 seconds)
